@@ -1,6 +1,6 @@
 # e_shopping
 
-A new Flutter project.
+A new Flutter appliction , which is design of E-shopping App only without connect the app to back-end server.
 
 ## Getting Started
 
